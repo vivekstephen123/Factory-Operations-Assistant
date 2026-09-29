@@ -194,7 +194,7 @@ maintenance_requests (request_id PK AUTO_INCREMENT, machine_id FK, description, 
 ### 2. Setup Virtual Environment
 ```powershell
 # Navigate to the project root
-cd "C:\Internship-Appa\Agentic-AI"
+cd "C:\My Project\Agentic-AI"
 
 # Create and activate virtual environment
 python -m venv venv
