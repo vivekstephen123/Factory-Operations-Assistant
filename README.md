@@ -128,9 +128,6 @@ langgraph-enterprise-sql-agent/
 │   └── evaluation_results.md      # Detailed LLM-as-a-Judge benchmark results and metrics
 │
 ├── screenshots/                   # Architectural and visual documentation assets
-│   ├── architecture.png           # System architecture diagram
-│   ├── demo.png                   # Streamlit web dashboard preview
-│   └── generate_screenshots.py    # PyMuPDF vector diagram generator
 │
 ├── app.py                         # Interactive Streamlit dashboard application
 ├── requirements.txt               # Project Python dependencies
